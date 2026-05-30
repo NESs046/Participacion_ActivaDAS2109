@@ -7,7 +7,7 @@
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ##### Python es un lenguaje de programación de alto nivel, versátil y de código abierto. 
 ##### Es ampliamente reconocido por su sintaxis sencilla y legible, similar al idioma inglés, 
-####lo que lo convierte en el lenguaje ideal para principiantes y uno de los más utilizados en el mundo
+#### lo que lo convierte en el lenguaje ideal para principiantes y uno de los más utilizados en el mundo
 
 #### Creado por: Glenda Fuentes
 
